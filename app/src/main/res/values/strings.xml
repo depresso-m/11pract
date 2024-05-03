@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mobile11</string>
+    <string name="go_to_webview">Go to WebView</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="go_to_animation_ui">Go to animation UI</string>
+    <string name="notification">Notification</string>
+    <string name="delayed_notification">Delayed Notification</string>
+</resources>
